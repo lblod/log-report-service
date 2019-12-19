@@ -1,0 +1,11 @@
+{
+  "name": "log-report-service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:lblod/log-report-service.git",
+  "author": "Oscar <lagartoverde97@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
