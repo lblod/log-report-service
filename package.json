@@ -6,6 +6,7 @@
   "author": "Oscar <lagartoverde97@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@lblod/mu-auth-sudo": "^0.2.0",
     "node-cron": "^2.0.3"
   }
 }
